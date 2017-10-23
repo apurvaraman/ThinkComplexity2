@@ -1,0 +1,3 @@
+Olami, Zeev, Hans Jacob S. Feder, and Kim Christensen. "Self-organized criticality in a continuous, nonconservative cellular automaton modeling earthquakes." *Physical Review Letters* 68.8 (1992): 1244.
+
+Olami et. al. develop an algorithm to model earthquakes using cellular automata. They find that it displays self-organized criticality (despite that results from analytical prediction methods do not have this characteristic) and is robust to noise. They determine the rules for the nearest-neighbor forces (strain) based on a spring model, and then use simulation to determine in which values the system demonstrates self-organized criticality. This paper has been cited frequently as an example of self-organized criticality in models.
