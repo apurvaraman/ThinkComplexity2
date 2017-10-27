@@ -1,0 +1,3 @@
+ Duane A. Bailey and Katherine A. Lindsey. "A Game of Life on Penrose tilings." *arxiv.org* (2017).
+
+Bailey and Lindsay explore Game of Life on Penrose tilings (nonperiodic tiling patterns that are self-similar, have reflective symmetry, and have fivefold rotational symmetry). They find that Game of Life still can be "played" with some variations on Penrose tilings. Penrose tilings are quasicrystalline (the Bragg diffraction has peaks for rotational symmetry other than 2, 3, 4, and 6). A possible extension could be finding a Penrose tiling that models a particular quasicrystalline structure and use Game of Life to investigate its dynamics, but it is unclear what behavior in Game of Life has to do with the properties or behavior of quasicrystals.
